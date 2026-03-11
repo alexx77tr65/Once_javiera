@@ -1,7 +1,7 @@
 # Once_javiera
 # Clases de media técnica 
 ## Instrucciones 
-**1.crear una cuenta de github**
+1. crear una cuenta de github**
 **2.ir a la sección  de repositorios** 
 **3. darle al botón llamado new**
 **4.darle un nomre al repositorio esto es obligatorio** 
