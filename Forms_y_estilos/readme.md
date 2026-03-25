@@ -16,8 +16,8 @@
 - Hover: Sombras aún más grandes y brutales para impacto visual.
 - Propósito: Dar dramatismo y profundidad al botón.
 
-## 4. Eliminación del Campo de Edad
-- Removimos el campo de Edad agregado en el paso 2 para simplificar el formulario.
+## 4. añadimos  Campo de Edad
+- añadimos un campo para poder poner la edad  de  llos usuarios
 
 ## 5. Agregado de Campo de Edad (Segunda Versión)
 - Insertamos el campo de Edad en la fila doble (`fila-doble`) junto a Nombre y Correo Electrónico.
